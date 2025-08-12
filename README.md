@@ -1,6 +1,6 @@
 ## IPTABLES-IP-Block.sh
 
-This script blocks a specified IP address using iptables, providing a JSON-formatted output for integration with security tools like OSSEC/Wazuh.
+This script blocks a specified IP address using iptables, providing a JSON-formatted output for integration with your SIEM.
 
 ### Overview
 
